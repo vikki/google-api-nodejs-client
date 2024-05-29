@@ -25,7 +25,7 @@
     "client library"
   ],
   "dependencies" : {
-    "request": "~2.25.0",
+    "request": "~2.88.2",
     "async": "0.2.6",
     "gapitoken": "0.0.3"
   },
